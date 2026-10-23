@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.tech in Electronics and Communication with Specialization in AI-ML from MIT-WPU(2021 - 2025)<br>🎓 M.tech in VLSI and Embeded Systems from AIT, Pune (2026-2028) <br>🌱 Nomad<br>💻 Writes blogs based on culture, life and a bit of slice of life<br>
+🎓 B.tech in Electronics and Communication with specialization in AI-ML from MIT-WPU (2021 - 2025)<br>🎓 M.tech in VLSI and Embeded Systems from AIT, Pune (2026-2028) <br>🌱 Nomad<br>💻 Writes blogs based on culture, life and a bit of slice of life<br>
 
 
 ## 🌐 Socials:
